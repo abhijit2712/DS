@@ -1,5 +1,2 @@
-# My Project
-
-Welcome to my project! For more information, visit [GitHub](https://github.com).
-
-You can also check out the [official documentation](https://docs.github.com "GitHub Docs").
+# Problem Link:
+1.N meetings in one room [GitHub](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
