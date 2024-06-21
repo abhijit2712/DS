@@ -27,9 +27,12 @@
    - **Description**: Given `N` activities with their start and end times, select the maximum number of activities that can be performed by a single person.
    - **Tags**: Greedy, Sorting
 
-5. **Minimum Number of Platforms Required**
+6. **Minimum Number of Platforms Required**
    - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
    - **Description**: Given arrival and departure times of all trains that reach a railway station, find the minimum number of platforms required.
    - **Tags**: Greedy, Sorting, Interval Scheduling
+  
+7. **Buy Maximum Stocks if i stocks can be bought on i-th day**
+   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/buy-maximum-stocks-if-i-stocks-can-be-bought-on-i-th-day/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article)
 
 
