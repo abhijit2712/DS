@@ -17,7 +17,7 @@
   
      
 4. **Minimum Coins to Make a Value**
-   - [https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article)
+   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article)
    - **Description**: Given an infinite supply of coins of different denominations, find the minimum number of coins to make a given value.
    - **Tags**: Greedy, Coin Change Problem
   
