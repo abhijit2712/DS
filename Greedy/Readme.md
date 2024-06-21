@@ -22,8 +22,8 @@
    - **Tags**: Greedy, Coin Change Problem
   
      
-4. **Activity Selection Problem**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/)
+5. **Activity Selection Problem**
+   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1)
    - **Description**: Given `N` activities with their start and end times, select the maximum number of activities that can be performed by a single person.
    - **Tags**: Greedy, Sorting
 
@@ -33,30 +33,3 @@
    - **Tags**: Greedy, Sorting, Interval Scheduling
 
 
-
-## Dynamic Programming
-
-1. **Longest Increasing Subsequence**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
-   - **Description**: Given an array of integers, find the length of the longest increasing subsequence.
-   - **Tags**: Dynamic Programming
-
-2. **0-1 Knapsack Problem**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
-   - **Description**: Given weights and values of `N` items, put these items in a knapsack of capacity `W` to get the maximum total value in the knapsack. Each item can only be picked once.
-   - **Tags**: Dynamic Programming, Knapsack
-
-3. **Longest Common Subsequence**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
-   - **Description**: Given two sequences, find the length of the longest subsequence present in both of them.
-   - **Tags**: Dynamic Programming, String Matching
-
-4. **Edit Distance**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/edit-distance-dp-5/)
-   - **Description**: Given two strings, find the minimum number of operations required to convert one string into the other.
-   - **Tags**: Dynamic Programming, String Matching
-
-5. **Coin Change Problem**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/coin-change-dp-7/)
-   - **Description**: Given a value `N` and an infinite supply of each of `S` different types of coins, find the number of ways to make the change.
-   - **Tags**: Dynamic Programming, Coin Change Problem
