@@ -11,7 +11,7 @@
    - **Tags**: Greedy, Sorting, Dynamic Programming
 
 3. **Fractional Knapsack Problem**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
+   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
    - **Description**: Given weights and values of `N` items, put these items in a knapsack of capacity `W` to get the maximum total value in the knapsack.
    - **Tags**: Greedy, Sorting
 
