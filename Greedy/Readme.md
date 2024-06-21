@@ -14,7 +14,14 @@
    - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
    - **Description**: Given weights and values of `N` items, put these items in a knapsack of capacity `W` to get the maximum total value in the knapsack.
    - **Tags**: Greedy, Sorting
-
+  
+     
+4. **Minimum Coins to Make a Value**
+   - [https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article)
+   - **Description**: Given an infinite supply of coins of different denominations, find the minimum number of coins to make a given value.
+   - **Tags**: Greedy, Coin Change Problem
+  
+     
 4. **Activity Selection Problem**
    - [GeeksforGeeks](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/)
    - **Description**: Given `N` activities with their start and end times, select the maximum number of activities that can be performed by a single person.
@@ -25,10 +32,7 @@
    - **Description**: Given arrival and departure times of all trains that reach a railway station, find the minimum number of platforms required.
    - **Tags**: Greedy, Sorting, Interval Scheduling
 
-6. **Minimum Coins to Make a Value**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
-   - **Description**: Given an infinite supply of coins of different denominations, find the minimum number of coins to make a given value.
-   - **Tags**: Greedy, Coin Change Problem
+
 
 ## Dynamic Programming
 
