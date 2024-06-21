@@ -28,7 +28,7 @@
    - **Tags**: Greedy, Sorting
 
 5. **Minimum Number of Platforms Required**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
+   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
    - **Description**: Given arrival and departure times of all trains that reach a railway station, find the minimum number of platforms required.
    - **Tags**: Greedy, Sorting, Interval Scheduling
 
