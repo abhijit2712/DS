@@ -6,7 +6,7 @@
    - **Tags**: Greedy, Sorting
 
 2. **Job Sequencing Problem**
-   - [GeeksforGeeks](https://www.geeksforgeeks.org/job-sequencing-problem/)
+   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
    - **Description**: Given a set of jobs where each job has a deadline and profit, maximize the total profit by scheduling the jobs within their deadlines.
    - **Tags**: Greedy, Sorting, Dynamic Programming
 
